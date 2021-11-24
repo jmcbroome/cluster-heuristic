@@ -14,4 +14,4 @@ python3 validate.py
 
 Python package dependencies include: Pandas, Numpy, scikit-learn
 
-To run auspice_json_to_mat.py, you need to obtain a parsimony_pb2 python parser. One is included in this repository, or it can be generated from the UShER installation via Protoc.
+To run auspice_json_to_mat.py, you need to obtain a parsimony_pb2 python parser. One is included in this repository, or it can be generated from the UShER installation via Protoc. 
